@@ -2,6 +2,7 @@ Enterprise Hardware Catalog - Data Pipeline:
 End-to-end pipeline for cleaning, transforming, and analyzing a hardware dataset using Python (Pandas) and SQL (DuckDB).
 
 Structure:
+
 a. notebook.ipynb – Main pipeline (cleaning, feature engineering, SQL, visualization)
 
 b. hardware_catalog_clean.csv – Cleaned dataset (Task 1)
